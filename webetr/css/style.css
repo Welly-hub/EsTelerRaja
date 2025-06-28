@@ -26,7 +26,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('/images/bgestelerraja.png') no-repeat center center;
+    background: url('../images/bgestelerraja.png') no-repeat center center;
     background-size: cover;
     z-index: -2;
 }
@@ -299,27 +299,27 @@ nav ul li a:hover::after {
 }
 
 .es-menu1 {
-    background-image: url('/images/menu1.png');
+    background-image: url('../images/menu1.png');
 }
 
 .es-menu2 {
-    background-image: url('/images/menu2.png');
+    background-image: url('../images/menu2.png');
 }
 
 .es-menu3 {
-    background-image: url('/images/menu3.png');
+    background-image: url('../images/menu3.png');
 }
 
 .es-menu4 {
-    background-image: url('/images/menu4.png');
+    background-image: url('../images/menu4.png');
 }
 
 .es-menu5 {
-    background-image: url('/images/menu5.png');
+    background-image: url('../images/menu5.png');
 }
 
 .es-menu6 {
-    background-image: url('/images/menu6.png');
+    background-image: url('../images/menu6.png');
 }
 
 .menu-item h3 {
